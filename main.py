@@ -34,6 +34,7 @@ class Ship:
 
 # this is my first game
 def main():
+    # hello
 
     run = True
     FPS = 30
