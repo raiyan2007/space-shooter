@@ -32,7 +32,7 @@ class Ship:
         window.blit(self.ship_img, (self.x, self.y))
 
 
-
+# this is my first game
 def main():
 
     run = True
