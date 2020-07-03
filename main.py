@@ -95,7 +95,8 @@ def main():
 
 
 main()
-
+# the coding of the game is still not over
+# it will be continued
 
 
 
